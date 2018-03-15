@@ -1,2 +1,2 @@
 # DEGlist.R
-The R code was supplied to analyze the differential expression gene list in age, gender and brain region
+The R code was supplied to do the differential expression analysis in age, gender and brain region
